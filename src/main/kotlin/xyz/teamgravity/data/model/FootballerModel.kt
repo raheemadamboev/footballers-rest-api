@@ -1,4 +1,4 @@
-package xyz.teamgravity.data.module
+package xyz.teamgravity.data.model
 
 import kotlinx.serialization.Serializable
 
